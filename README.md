@@ -1,6 +1,6 @@
 # PROCESSING-KORG-Nano-Kontrol-2
 
-![GitHub Logo](/images/logo.png)
+![Korg](/korg.gif)
 
 A simple oscilloscope-like visualisation. 
 Variables are modified live on a little Korg controller. 
