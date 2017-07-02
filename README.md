@@ -1,4 +1,4 @@
-# PROCESSING-KORG-Nano-Kontrol-2
+# PROCESSING-KORG
 
 ![Korg](/korg.gif)
 
